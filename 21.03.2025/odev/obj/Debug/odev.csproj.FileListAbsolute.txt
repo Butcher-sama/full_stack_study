@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\odev\bin\Debug\odev.exe.config
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\odev\bin\Debug\odev.exe
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\odev\bin\Debug\odev.pdb
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\odev\obj\Debug\odev.exe
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\odev\obj\Debug\odev.pdb
