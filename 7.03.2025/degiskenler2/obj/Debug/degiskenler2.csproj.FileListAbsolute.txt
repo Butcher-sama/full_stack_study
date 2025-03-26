@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\degiskenler2\bin\Debug\degiskenler2.exe.config
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\degiskenler2\bin\Debug\degiskenler2.exe
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\degiskenler2\bin\Debug\degiskenler2.pdb
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\degiskenler2\obj\Debug\degiskenler2.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\degiskenler2\obj\Debug\degiskenler2.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\degiskenler2\obj\Debug\degiskenler2.exe
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\degiskenler2\obj\Debug\degiskenler2.pdb

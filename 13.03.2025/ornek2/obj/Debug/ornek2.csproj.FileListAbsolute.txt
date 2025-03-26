@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\13.03.2025\ornek2\bin\Debug\ornek2.exe.config
+C:\Users\furkan\Desktop\Web-IBB\13.03.2025\ornek2\bin\Debug\ornek2.exe
+C:\Users\furkan\Desktop\Web-IBB\13.03.2025\ornek2\bin\Debug\ornek2.pdb
+C:\Users\furkan\Desktop\Web-IBB\13.03.2025\ornek2\obj\Debug\ornek2.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\13.03.2025\ornek2\obj\Debug\ornek2.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\13.03.2025\ornek2\obj\Debug\ornek2.exe
+C:\Users\furkan\Desktop\Web-IBB\13.03.2025\ornek2\obj\Debug\ornek2.pdb

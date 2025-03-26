@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cift_sayi", "cift_sayi.csproj", "{749E1B4E-FF1D-4685-9730-D39F4723AC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749E1B4E-FF1D-4685-9730-D39F4723AC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749E1B4E-FF1D-4685-9730-D39F4723AC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749E1B4E-FF1D-4685-9730-D39F4723AC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749E1B4E-FF1D-4685-9730-D39F4723AC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15D1B99E-1BF6-465F-BD96-155FF9E79800}
+	EndGlobalSection
+EndGlobal
