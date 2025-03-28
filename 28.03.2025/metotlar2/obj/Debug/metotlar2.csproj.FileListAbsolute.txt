@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\28.03.2025\metotlar2\bin\Debug\metotlar2.exe.config
+C:\Users\furkan\Desktop\Web-IBB\28.03.2025\metotlar2\bin\Debug\metotlar2.exe
+C:\Users\furkan\Desktop\Web-IBB\28.03.2025\metotlar2\bin\Debug\metotlar2.pdb
+C:\Users\furkan\Desktop\Web-IBB\28.03.2025\metotlar2\obj\Debug\metotlar2.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\28.03.2025\metotlar2\obj\Debug\metotlar2.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\28.03.2025\metotlar2\obj\Debug\metotlar2.exe
+C:\Users\furkan\Desktop\Web-IBB\28.03.2025\metotlar2\obj\Debug\metotlar2.pdb
