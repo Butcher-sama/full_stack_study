@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\dizilerde_try_catch\bin\Debug\dizilerde_try_catch.exe.config
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\dizilerde_try_catch\bin\Debug\dizilerde_try_catch.exe
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\dizilerde_try_catch\bin\Debug\dizilerde_try_catch.pdb
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\dizilerde_try_catch\obj\Debug\dizilerde_try_catch.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\dizilerde_try_catch\obj\Debug\dizilerde_try_catch.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\dizilerde_try_catch\obj\Debug\dizilerde_try_catch.exe
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\dizilerde_try_catch\obj\Debug\dizilerde_try_catch.pdb

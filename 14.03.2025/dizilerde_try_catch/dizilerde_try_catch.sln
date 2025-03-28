@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dizilerde_try_catch", "dizilerde_try_catch.csproj", "{9321B32A-D5A0-45D1-B18C-8148DFFFDCEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9321B32A-D5A0-45D1-B18C-8148DFFFDCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9321B32A-D5A0-45D1-B18C-8148DFFFDCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9321B32A-D5A0-45D1-B18C-8148DFFFDCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9321B32A-D5A0-45D1-B18C-8148DFFFDCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E54AB35-BD94-4D0A-9ED2-AEA4DA3F401C}
+	EndGlobalSection
+EndGlobal

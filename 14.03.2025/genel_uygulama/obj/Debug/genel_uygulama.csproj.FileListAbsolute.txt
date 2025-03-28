@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\genel_uygulama\bin\Debug\genel_uygulama.exe.config
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\genel_uygulama\bin\Debug\genel_uygulama.exe
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\genel_uygulama\bin\Debug\genel_uygulama.pdb
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\genel_uygulama\obj\Debug\genel_uygulama.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\genel_uygulama\obj\Debug\genel_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\genel_uygulama\obj\Debug\genel_uygulama.exe
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\genel_uygulama\obj\Debug\genel_uygulama.pdb
