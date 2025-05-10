@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\cift_sayi\bin\Debug\cift_sayi.exe.config
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\cift_sayi\bin\Debug\cift_sayi.exe
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\cift_sayi\bin\Debug\cift_sayi.pdb
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\cift_sayi\obj\Debug\cift_sayi.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\cift_sayi\obj\Debug\cift_sayi.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\cift_sayi\obj\Debug\cift_sayi.exe
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\cift_sayi\obj\Debug\cift_sayi.pdb

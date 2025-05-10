@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\diziler_ornek4\bin\Debug\diziler_ornek4.exe.config
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\diziler_ornek4\bin\Debug\diziler_ornek4.exe
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\diziler_ornek4\bin\Debug\diziler_ornek4.pdb
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\diziler_ornek4\obj\Debug\diziler_ornek4.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\diziler_ornek4\obj\Debug\diziler_ornek4.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\diziler_ornek4\obj\Debug\diziler_ornek4.exe
+C:\Users\furkan\Desktop\Web-IBB\21.03.2025\diziler_ornek4\obj\Debug\diziler_ornek4.pdb

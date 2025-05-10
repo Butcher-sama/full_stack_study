@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\20.03.2025\dizi(array)3\bin\Debug\dizi(array)3.exe.config
+C:\Users\furkan\Desktop\Web-IBB\20.03.2025\dizi(array)3\bin\Debug\dizi(array)3.exe
+C:\Users\furkan\Desktop\Web-IBB\20.03.2025\dizi(array)3\bin\Debug\dizi(array)3.pdb
+C:\Users\furkan\Desktop\Web-IBB\20.03.2025\dizi(array)3\obj\Debug\dizi(array)3.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\20.03.2025\dizi(array)3\obj\Debug\dizi(array)3.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\20.03.2025\dizi(array)3\obj\Debug\dizi(array)3.exe
+C:\Users\furkan\Desktop\Web-IBB\20.03.2025\dizi(array)3\obj\Debug\dizi(array)3.pdb

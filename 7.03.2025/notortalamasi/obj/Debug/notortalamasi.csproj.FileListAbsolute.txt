@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\notortalamasi\bin\Debug\notortalamasi.exe.config
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\notortalamasi\bin\Debug\notortalamasi.exe
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\notortalamasi\bin\Debug\notortalamasi.pdb
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\notortalamasi\obj\Debug\notortalamasi.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\notortalamasi\obj\Debug\notortalamasi.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\notortalamasi\obj\Debug\notortalamasi.exe
+C:\Users\furkan\Desktop\Web-IBB\7.03.2025\notortalamasi\obj\Debug\notortalamasi.pdb

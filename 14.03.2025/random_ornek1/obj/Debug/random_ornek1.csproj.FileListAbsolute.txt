@@ -1,0 +1,7 @@
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\random_ornek1\bin\Debug\random_ornek1.exe.config
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\random_ornek1\bin\Debug\random_ornek1.exe
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\random_ornek1\bin\Debug\random_ornek1.pdb
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\random_ornek1\obj\Debug\random_ornek1.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\random_ornek1\obj\Debug\random_ornek1.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\random_ornek1\obj\Debug\random_ornek1.exe
+C:\Users\furkan\Desktop\Web-IBB\14.03.2025\random_ornek1\obj\Debug\random_ornek1.pdb
